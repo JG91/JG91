@@ -1,16 +1,14 @@
-### Hi there 👋
+
+[![](https://img.shields.io/badge/JG-91-FFCD11?style=for-the-badge)](https://github.com/JG91) 
+
+I'm a Computer Security Enthusiast! ⚡ :rocket:
+
+[![](https://img.shields.io/badge/-SPLUNK-000000?style=for-the-badge&logo=splunk)](https://splunk.com/)
+[![](https://img.shields.io/badge/-LINUX-white?style=for-the-badge&logo=linux)](https://linux.org/)
+[![](https://img.shields.io/badge/-go-white?style=for-the-badge&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/-python3-white?style=for-the-badge&logo=python)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim)](https://www.vim.org/)
 
 <!--
-**JG91/JG91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Thanks to Parham for this icons!
 -->
