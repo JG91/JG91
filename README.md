@@ -10,5 +10,5 @@ I'm a Computer Security Enthusiast! ⚡ :rocket:
 [![](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim)](https://www.vim.org/)
 
 <!--
-Thanks to Parham for this icons!
+Thanks to Parham for these icons!
 -->
