@@ -12,3 +12,5 @@ I'm a Computer Security Enthusiast! ⚡ :rocket:
 <!--
 Thanks to Parham for these icons!
 -->
+
+![](https://komarev.com/ghpvc/?username=JG91&style=for-the-badge)
